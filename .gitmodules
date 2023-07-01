@@ -1,0 +1,9 @@
+[submodule "specification/servlet"]
+	path = specification/servlet
+	url = https://github.com/jakartaee/servlet.git
+[submodule "specification/pages"]
+	path = specification/pages
+	url = https://github.com/jakartaee/pages.git
+[submodule "implementation/eclipse/wasp"]
+	path = implementation/eclipse/wasp
+	url = https://github.com/eclipse-ee4j/wasp.git
