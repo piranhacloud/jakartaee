@@ -7,3 +7,9 @@
 [submodule "implementation/eclipse/wasp"]
 	path = implementation/eclipse/wasp
 	url = https://github.com/eclipse-ee4j/wasp.git
+[submodule "specification/websocket"]
+	path = specification/websocket
+	url = https://github.com/jakartaee/websocket.git
+[submodule "implementation/eclipse/tyrus"]
+	path = implementation/eclipse/tyrus
+	url = https://github.com/eclipse-ee4j/tyrus.git
