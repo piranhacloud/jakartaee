@@ -13,3 +13,9 @@
 [submodule "implementation/eclipse/tyrus"]
 	path = implementation/eclipse/tyrus
 	url = https://github.com/eclipse-ee4j/tyrus.git
+[submodule "specification/jsonb-api"]
+	path = specification/jsonb-api
+	url = https://github.com/jakartaee/jsonb-api.git
+[submodule "implementation/eclipse/yasson"]
+	path = implementation/eclipse/yasson
+	url = https://github.com/eclipse-ee4j/yasson.git
