@@ -11,6 +11,9 @@
 	path = implementation/eclipse/yasson
 	url = https://github.com/eclipse-ee4j/yasson.git
 
+[submodule "specification/faces"]
+	path = specification/faces
+	url = https://github.com/jakartaee/faces
 [submodule "specification/jsonb-api"]
 	path = specification/jsonb-api
 	url = https://github.com/jakartaee/jsonb-api.git
