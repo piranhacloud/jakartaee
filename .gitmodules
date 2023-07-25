@@ -1,21 +1,25 @@
-[submodule "specification/servlet"]
-	path = specification/servlet
-	url = https://github.com/jakartaee/servlet.git
-[submodule "specification/pages"]
-	path = specification/pages
-	url = https://github.com/jakartaee/pages.git
-[submodule "implementation/eclipse/wasp"]
-	path = implementation/eclipse/wasp
-	url = https://github.com/eclipse-ee4j/wasp.git
-[submodule "specification/websocket"]
-	path = specification/websocket
-	url = https://github.com/jakartaee/websocket.git
+[submodule "implementation/eclipse/mojarra"]
+	path = implementation/eclipse/mojarra
+	url = https://github.com/eclipse-ee4j/mojarra
 [submodule "implementation/eclipse/tyrus"]
 	path = implementation/eclipse/tyrus
 	url = https://github.com/eclipse-ee4j/tyrus.git
-[submodule "specification/jsonb-api"]
-	path = specification/jsonb-api
-	url = https://github.com/jakartaee/jsonb-api.git
+[submodule "implementation/eclipse/wasp"]
+	path = implementation/eclipse/wasp
+	url = https://github.com/eclipse-ee4j/wasp.git
 [submodule "implementation/eclipse/yasson"]
 	path = implementation/eclipse/yasson
 	url = https://github.com/eclipse-ee4j/yasson.git
+
+[submodule "specification/jsonb-api"]
+	path = specification/jsonb-api
+	url = https://github.com/jakartaee/jsonb-api.git
+[submodule "specification/pages"]
+	path = specification/pages
+	url = https://github.com/jakartaee/pages.git
+[submodule "specification/servlet"]
+	path = specification/servlet
+	url = https://github.com/jakartaee/servlet.git
+[submodule "specification/websocket"]
+	path = specification/websocket
+	url = https://github.com/jakartaee/websocket.git
