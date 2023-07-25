@@ -1,3 +1,9 @@
+[submodule "implementation/eclipse/eclipselink"]
+	path = implementation/eclipse/eclipselink
+	url = https://github.com/eclipse-ee4j/eclipselink
+[submodule "implementation/eclipse/jersey"]
+	path = implementation/eclipse/jersey
+	url = https://github.com/eclipse-ee4j/jersey
 [submodule "implementation/eclipse/mojarra"]
 	path = implementation/eclipse/mojarra
 	url = https://github.com/eclipse-ee4j/mojarra
@@ -29,6 +35,3 @@
 [submodule "specification/websocket"]
 	path = specification/websocket
 	url = https://github.com/jakartaee/websocket.git
-[submodule "implementation/eclipse/eclipselink"]
-	path = implementation/eclipse/eclipselink
-	url = https://github.com/eclipse-ee4j/eclipselink
