@@ -1,15 +1,19 @@
 [submodule "implementation/eclipse/eclipselink"]
 	path = implementation/eclipse/eclipselink
 	url = https://github.com/eclipse-ee4j/eclipselink
+	branch = 4.0
 [submodule "implementation/eclipse/jersey"]
 	path = implementation/eclipse/jersey
 	url = https://github.com/eclipse-ee4j/jersey
+	branch = 3.1
 [submodule "implementation/eclipse/mojarra"]
 	path = implementation/eclipse/mojarra
 	url = https://github.com/eclipse-ee4j/mojarra
+	branch = 4.0
 [submodule "implementation/eclipse/tyrus"]
 	path = implementation/eclipse/tyrus
 	url = https://github.com/eclipse-ee4j/tyrus.git
+	branch = 2.x
 [submodule "implementation/eclipse/wasp"]
 	path = implementation/eclipse/wasp
 	url = https://github.com/eclipse-ee4j/wasp.git
