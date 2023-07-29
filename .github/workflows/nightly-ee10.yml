@@ -8,6 +8,8 @@ jobs:
     - name: Checkout sources
       uses: actions/checkout@v3
       with:
+        fetch-depth: '0'
+        submodules: 'true'
         token: ${{ secrets.GIT_PASSWORD }}
     - name: Nightly update of JakartaEE 10 modules
       run: |
