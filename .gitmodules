@@ -24,6 +24,7 @@
 [submodule "specification/cdi"]
 	path = specification/cdi
 	url = https://github.com/jakartaee/cdi
+	branch = 4.0
 [submodule "specification/faces"]
 	path = specification/faces
 	url = https://github.com/jakartaee/faces
