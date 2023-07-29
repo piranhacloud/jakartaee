@@ -17,6 +17,7 @@ jobs:
         git config --global user.email "noreply@piranha.cloud"
         git config --global user.name "Automated workflow"
         git submodule init
+        git submodule update
         git submodule foreach git pull --all --tags --prune
         git commit -a -m "Nightly update of JakartaEE 10 modules" || true
         git push || true
