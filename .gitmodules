@@ -1,15 +1,19 @@
 [submodule "implementation/eclipse/eclipselink"]
 	path = implementation/eclipse/eclipselink
 	url = https://github.com/eclipse-ee4j/eclipselink
+	branch = 4.0
 [submodule "implementation/eclipse/jersey"]
 	path = implementation/eclipse/jersey
 	url = https://github.com/eclipse-ee4j/jersey
+	branch = 3.1
 [submodule "implementation/eclipse/mojarra"]
 	path = implementation/eclipse/mojarra
 	url = https://github.com/eclipse-ee4j/mojarra
+	branch = 4.0
 [submodule "implementation/eclipse/tyrus"]
 	path = implementation/eclipse/tyrus
 	url = https://github.com/eclipse-ee4j/tyrus.git
+	branch = 2.x
 [submodule "implementation/eclipse/wasp"]
 	path = implementation/eclipse/wasp
 	url = https://github.com/eclipse-ee4j/wasp.git
@@ -20,12 +24,14 @@
 [submodule "specification/cdi"]
 	path = specification/cdi
 	url = https://github.com/jakartaee/cdi
+	branch = 4.0
 [submodule "specification/faces"]
 	path = specification/faces
 	url = https://github.com/jakartaee/faces
 [submodule "specification/jsonb-api"]
 	path = specification/jsonb-api
 	url = https://github.com/jakartaee/jsonb-api.git
+        branch = 3.0.0-BRANCH
 [submodule "specification/pages"]
 	path = specification/pages
 	url = https://github.com/jakartaee/pages.git
