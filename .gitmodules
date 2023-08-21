@@ -31,6 +31,7 @@
 [submodule "specification/jsonb-api"]
 	path = specification/jsonb-api
 	url = https://github.com/jakartaee/jsonb-api.git
+        branch = 3.0.0-BRANCH
 [submodule "specification/pages"]
 	path = specification/pages
 	url = https://github.com/jakartaee/pages.git
