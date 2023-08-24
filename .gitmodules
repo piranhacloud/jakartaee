@@ -35,6 +35,7 @@
 [submodule "specification/pages"]
 	path = specification/pages
 	url = https://github.com/jakartaee/pages.git
+        branch = 3.1.x
 [submodule "specification/servlet"]
 	path = specification/servlet
 	url = https://github.com/jakartaee/servlet.git
