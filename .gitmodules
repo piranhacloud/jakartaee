@@ -39,6 +39,7 @@
 [submodule "specification/servlet"]
 	path = specification/servlet
 	url = https://github.com/jakartaee/servlet.git
+        branch = 6.0.0
 [submodule "specification/websocket"]
 	path = specification/websocket
 	url = https://github.com/jakartaee/websocket.git
