@@ -43,3 +43,5 @@
 [submodule "specification/websocket"]
 	path = specification/websocket
 	url = https://github.com/jakartaee/websocket.git
+        branch = 2.1.x
+
