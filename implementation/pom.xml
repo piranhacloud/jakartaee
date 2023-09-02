@@ -6,7 +6,7 @@
     <artifactId>project</artifactId>
     <version>1-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>JakartaEE Implementations Project</name>
+    <name>JakartaEE - Implementations Project</name>
     <modules>
         <module>eclipse</module>
     </modules>
