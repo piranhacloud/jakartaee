@@ -9,5 +9,6 @@
     <name>JakartaEE</name>
     <modules>
         <module>specification</module>
+        <module>implementation</module>
     </modules>
 </project>

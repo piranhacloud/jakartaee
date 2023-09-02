@@ -1,0 +1,16 @@
+name: ee10-build
+on: 
+  push:
+    branches:
+      - 'jakartaee-10'
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout sources
+      uses: actions/checkout@v3
+    - name: Build JakartaEE 10 modules
+      run: |
+        git checkout jakartaee-10
+        mvn -B clean install
