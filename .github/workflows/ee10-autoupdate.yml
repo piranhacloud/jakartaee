@@ -1,5 +1,7 @@
 name: ee10-autoupdate
-on: 
+on:
+  schedule:
+    - cron: '0 0 * * *'
   workflow_dispatch:
 jobs:
   build:
@@ -15,6 +17,6 @@ jobs:
         git checkout jakartaee-10
         git config --global user.email "noreply@piranha.cloud"
         git config --global user.name "Automated workflow"
-        git submodule foreach git pull --all --tags --prune
+        git submodule foreach git pull
         git commit -a -m "Nightly update of JakartaEE 10 modules" || true
         git push || true
