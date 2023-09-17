@@ -31,6 +31,9 @@
 [submodule "specification/faces"]
 	path = specification/faces
 	url = https://github.com/jakartaee/faces
+[submodule "specification/jsonp-api"]
+	path = specification/jsonp-api
+	url = https://github.com/jakartaee/jsonp-api.git
 [submodule "specification/jsonb-api"]
 	path = specification/jsonb-api
 	url = https://github.com/jakartaee/jsonb-api.git
