@@ -51,3 +51,6 @@
 	url = https://github.com/jakartaee/websocket.git
         branch = 2.1.x
 
+[submodule "specification/authorization"]
+	path = specification/authorization
+	url = https://github.com/jakartaee/authorization.git
