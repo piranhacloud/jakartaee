@@ -54,3 +54,6 @@
 [submodule "specification/authorization"]
 	path = specification/authorization
 	url = https://github.com/jakartaee/authorization.git
+[submodule "specification/authentication"]
+	path = specification/authentication
+	url = https://github.com/jakartaee/authentication.git
