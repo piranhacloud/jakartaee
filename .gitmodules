@@ -57,3 +57,6 @@
 [submodule "specification/authentication"]
 	path = specification/authentication
 	url = https://github.com/jakartaee/authentication.git
+[submodule "specification/activation"]
+	path = specification/activation
+	url = https://github.com/jakartaee/jaf-api

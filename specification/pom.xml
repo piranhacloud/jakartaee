@@ -11,6 +11,11 @@
     <packaging>pom</packaging>
     <name>JakartaEE - Specifications</name>
     <modules>
+        <module>authentication/api</module>
+        <module>authorization</module>
         <module>cdi</module>
+        <module>pages</module>
+        <module>servlet</module>
+        <module>websocket</module>
     </modules>
 </project>
