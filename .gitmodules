@@ -63,3 +63,6 @@
 [submodule "specifications/annotations"]
 	path = specifications/annotations
 	url = https://github.com/jakartaee/common-annotations-api
+[submodule "specification/batch"]
+	path = specification/batch
+	url = https://github.com/eclipse-ee4j/batch-api.git
