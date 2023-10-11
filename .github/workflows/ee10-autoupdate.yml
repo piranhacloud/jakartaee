@@ -8,13 +8,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout sources
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
+        ref: 'jakartaee-10'
         fetch-depth: '0'
+        submodules: 'true'
         token: ${{ secrets.GIT_PASSWORD }}
     - name: Nightly update of JakartaEE 10 modules
       run: |
-        git checkout jakartaee-10
         git config --global user.email "noreply@piranha.cloud"
         git config --global user.name "Automated workflow"
         git submodule foreach git pull
