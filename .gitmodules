@@ -69,3 +69,6 @@
 [submodule "specification/validation"]
 	path = specification/validation
 	url = https://github.com/jakartaee/validation-spec
+[submodule "specification/concurrency"]
+	path = specification/concurrency
+	url = https://github.com/jakartaee/concurrency.git
