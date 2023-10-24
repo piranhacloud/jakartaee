@@ -72,3 +72,6 @@
 [submodule "specification/concurrency"]
 	path = specification/concurrency
 	url = https://github.com/jakartaee/concurrency.git
+[submodule "specification/connectors"]
+	path = specification/connectors
+	url = https://github.com/jakartaee/connectors.git
