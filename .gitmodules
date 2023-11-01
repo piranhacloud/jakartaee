@@ -75,3 +75,6 @@
 [submodule "specification/connectors"]
 	path = specification/connectors
 	url = https://github.com/jakartaee/connectors.git
+[submodule "specification/inject"]
+	path = specification/inject
+	url = https://github.com/jakartaee/inject-spec
