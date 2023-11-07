@@ -78,3 +78,6 @@
 [submodule "specification/inject"]
 	path = specification/inject
 	url = https://github.com/jakartaee/inject-spec
+[submodule "specification/enterprise-beans"]
+	path = specification/enterprise-beans
+	url = https://github.com/jakartaee/enterprise-beans
