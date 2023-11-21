@@ -81,3 +81,6 @@
 [submodule "specification/enterprise-beans"]
 	path = specification/enterprise-beans
 	url = https://github.com/jakartaee/enterprise-beans
+[submodule "specification/interceptors"]
+	path = specification/interceptors
+	url = https://github.com/jakartaee/interceptors.git
