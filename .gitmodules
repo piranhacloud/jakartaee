@@ -84,3 +84,6 @@
 [submodule "specification/interceptors"]
 	path = specification/interceptors
 	url = https://github.com/jakartaee/interceptors.git
+[submodule "specification/deployment"]
+	path = specification/deployment
+	url = https://github.com/eclipse-ee4j/enterprise-deployment.git
