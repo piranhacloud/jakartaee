@@ -87,3 +87,6 @@
 [submodule "specification/deployment"]
 	path = specification/deployment
 	url = https://github.com/eclipse-ee4j/enterprise-deployment.git
+[submodule "specification/jaxws"]
+	path = specification/jaxws
+	url = https://github.com/jakartaee/jax-ws-api
