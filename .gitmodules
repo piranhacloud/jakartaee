@@ -90,3 +90,6 @@
 [submodule "specification/jaxws"]
 	path = specification/jaxws
 	url = https://github.com/jakartaee/jax-ws-api
+[submodule "specification/mail"]
+	path = specification/mail
+	url = https://github.com/jakartaee/mail-spec.git
