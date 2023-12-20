@@ -93,3 +93,6 @@
 [submodule "specification/mail"]
 	path = specification/mail
 	url = https://github.com/jakartaee/mail-spec.git
+[submodule "specification/managed-beans"]
+	path = specification/managed-beans
+	url = https://github.com/jakartaee/managed-beans
