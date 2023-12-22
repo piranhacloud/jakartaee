@@ -96,3 +96,6 @@
 [submodule "specification/managed-beans"]
 	path = specification/managed-beans
 	url = https://github.com/jakartaee/managed-beans
+[submodule "specification/management"]
+	path = specification/management
+	url = https://github.com/eclipse-ee4j/management-api
